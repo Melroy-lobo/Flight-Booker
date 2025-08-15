@@ -57,10 +57,6 @@ Frontend runs at: http://localhost:5173
 
 Create .env files in both frontend/ and backend/ with the values from .env.example.
 
-📸 Screenshots
-
-(Add some screenshots of the app here)
-
 📜 License
 
 This project is licensed under the MIT License.
